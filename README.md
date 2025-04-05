@@ -15,5 +15,4 @@ chmod +x health_check.sh
 ![advance-shell3](advance-shell3.PNG)
 
 # Modify the script to send an email if CPU usage exceeds 90%
- ![advance-shell4](advance-shell4.PNG)
- ![advance-shell5](advance-shell5.PNG)
+![modify-1](modify-1.PNG)
